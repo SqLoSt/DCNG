@@ -1,9 +1,9 @@
 
-## WHat this tool is? / Bu tool nedir?
+## What this tool is? / Bu tool nedir?
 - 🇬🇧 This tool is an **Discord Nitro** Generator made with Python.
 - 🇹🇷 Bu tool **Discord Nitro** oluşturur. python ile yapılmıştır.
 
-## Festures / Özellikler
+## Features / Özellikler
 - Full scan without missing any link / Bütün linkler tamamen taranır
 - Tells you  when nitro is valid / Kullanılabilir nitro olduğunda bildirir 
 - Asks you how much code to generate / kaç tane kod oluşturulacağını sorar.
