@@ -3,6 +3,10 @@
 - 🇬🇧 This tool is an **Discord Nitro** Generator made with Python.
 - 🇹🇷 Bu tool **Discord Nitro** oluşturur. python ile yapılmıştır.
 
+### Legal Warning / Legal uyarı ⚠️
+- This tool made for educational purposes , please do not use for illegal Activaty.
+- Bu tool Eğitim amaçlı yapılmıştır , lütfen toolu illegal aktivitelerde kullanmayınız.
+
 ## Features / Özellikler
 - Full scan without missing any link / Bütün linkler tamamen taranır
 - Tells you  when nitro is valid / Kullanılabilir nitro olduğunda bildirir 
@@ -48,4 +52,5 @@ ne kadar linkin yaratacağını seç.
 ## Contacts / iletişim bilgileri 
 - ***Sqlost#8883*** - Discord May be  Closed / Hesap kapanmış olabilir.
 - **Genel [discord server/sunucumuz](https://discord.gg/fXJgZVGbE6)**
+- **Our/bizim [YouTube](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw)**
 
