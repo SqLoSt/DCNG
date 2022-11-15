@@ -14,6 +14,7 @@
 - Basic code , Basic results / Basit kod , Basit sonuçlar.
 - Discord webhook avaible / Discord webhook eklentili.
 
+![DCNG](https://media.discordapp.net/attachments/1041688135035265064/1041979160865812480/image0.jpg)
 ## Tests & Requirements / Testler ve ihtiyaçlar.
 
 **Tested on / Denendi :**
